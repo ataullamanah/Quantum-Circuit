@@ -38,7 +38,7 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 ## Support
 
-If you enjoy this project, consider supporting it through [GitHub Sponsors](https://github.com/sponsors/your-username). Your support helps keep this project alive!
+If you enjoy this project, consider supporting it through [GitHub Sponsors](https://github.com/sponsors/ataullamanah). Your support helps keep this project alive!
 
 ## License
 
